@@ -8,5 +8,5 @@ services:
     volumes:
       - "/path/to/your/share:/media/data"
     environment:
-      USERNAME: your_webdav_user
-      PASSWORD: your_webdav_passwd
+      USERNAME: frodo
+      PASSWORD: bolson
